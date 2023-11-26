@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>orm_json_benchmarking.Benchmarks.EmailValidatorBenchmark-20231125-125907</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet v0.13.10, Windows 10 (10.0.19044.3086/21H2/November2021Update)
+11th Gen Intel Core i5-1135G7 2.40GHz, 1 CPU, 8 logical and 4 physical cores
+.NET SDK 7.0.304
+  [Host]     : .NET 6.0.18 (6.0.1823.26907), X64 RyuJIT AVX2
+  DefaultJob : .NET 6.0.18 (6.0.1823.26907), X64 RyuJIT AVX2
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>Method </th><th>Mean </th><th>Error</th><th>StdDev</th><th>Ratio</th><th>RatioSD</th><th>Gen0</th><th>Allocated</th><th>Alloc Ratio</th>
+</tr>
+</thead><tbody><tr><td>Regex</td><td>33,273.8 ns</td><td>657.69 ns</td><td>615.20 ns</td><td>1.00</td><td>0.00</td><td>1.7700</td><td>7520 B</td><td>1.00</td>
+</tr><tr><td>Simple</td><td>634.1 ns</td><td>8.32 ns</td><td>7.78 ns</td><td>0.02</td><td>0.00</td><td>-</td><td>-</td><td>0.00</td>
+</tr><tr><td>RegexCompiled</td><td>17,759.1 ns</td><td>332.58 ns</td><td>311.10 ns</td><td>0.53</td><td>0.02</td><td>11.4746</td><td>48000 B</td><td>6.38</td>
+</tr></tbody></table>
+</body>
+</html>

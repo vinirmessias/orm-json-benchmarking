@@ -1,0 +1,15 @@
+C:\Users\vinicius.messias\source\repos\orm-json-benckmarking\orm-json-benckmarking\bin\Debug\net6.0\orm-json-benckmarking.exe
+C:\Users\vinicius.messias\source\repos\orm-json-benckmarking\orm-json-benckmarking\bin\Debug\net6.0\orm-json-benckmarking.deps.json
+C:\Users\vinicius.messias\source\repos\orm-json-benckmarking\orm-json-benckmarking\bin\Debug\net6.0\orm-json-benckmarking.runtimeconfig.json
+C:\Users\vinicius.messias\source\repos\orm-json-benckmarking\orm-json-benckmarking\bin\Debug\net6.0\orm-json-benckmarking.dll
+C:\Users\vinicius.messias\source\repos\orm-json-benckmarking\orm-json-benckmarking\bin\Debug\net6.0\orm-json-benckmarking.pdb
+C:\Users\vinicius.messias\source\repos\orm-json-benckmarking\orm-json-benckmarking\obj\Debug\net6.0\orm-json-benckmarking.csproj.AssemblyReference.cache
+C:\Users\vinicius.messias\source\repos\orm-json-benckmarking\orm-json-benckmarking\obj\Debug\net6.0\orm-json-benckmarking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.messias\source\repos\orm-json-benckmarking\orm-json-benckmarking\obj\Debug\net6.0\orm-json-benckmarking.AssemblyInfoInputs.cache
+C:\Users\vinicius.messias\source\repos\orm-json-benckmarking\orm-json-benckmarking\obj\Debug\net6.0\orm-json-benckmarking.AssemblyInfo.cs
+C:\Users\vinicius.messias\source\repos\orm-json-benckmarking\orm-json-benckmarking\obj\Debug\net6.0\orm-json-benckmarking.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.messias\source\repos\orm-json-benckmarking\orm-json-benckmarking\obj\Debug\net6.0\orm-json-benckmarking.dll
+C:\Users\vinicius.messias\source\repos\orm-json-benckmarking\orm-json-benckmarking\obj\Debug\net6.0\refint\orm-json-benckmarking.dll
+C:\Users\vinicius.messias\source\repos\orm-json-benckmarking\orm-json-benckmarking\obj\Debug\net6.0\orm-json-benckmarking.pdb
+C:\Users\vinicius.messias\source\repos\orm-json-benckmarking\orm-json-benckmarking\obj\Debug\net6.0\orm-json-benckmarking.genruntimeconfig.cache
+C:\Users\vinicius.messias\source\repos\orm-json-benckmarking\orm-json-benckmarking\obj\Debug\net6.0\ref\orm-json-benckmarking.dll
