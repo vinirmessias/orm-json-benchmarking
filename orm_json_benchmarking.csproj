@@ -10,8 +10,10 @@
 
   <ItemGroup>
     <PackageReference Include="BenchmarkDotNet" Version="0.13.10" />
+    <PackageReference Include="dapper" Version="2.1.24" />
     <PackageReference Include="Jil" Version="2.17.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="NHibernate" Version="5.4.6" />
     <PackageReference Include="System.Text.Json" Version="8.0.0" />
   </ItemGroup>
 

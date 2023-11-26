@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinicius.messias\\source\\repos\\orm-json-benchmarking\\orm-json-benchmarking\\orm_json_benchmarking.csproj": {}
+    "c:\\Users\\vinicius.messias\\source\\repos\\orm-json-benchmarking\\orm-json-benchmarking\\orm_json_benchmarking.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinicius.messias\\source\\repos\\orm-json-benchmarking\\orm-json-benchmarking\\orm_json_benchmarking.csproj": {
+    "c:\\Users\\vinicius.messias\\source\\repos\\orm-json-benchmarking\\orm-json-benchmarking\\orm_json_benchmarking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinicius.messias\\source\\repos\\orm-json-benchmarking\\orm-json-benchmarking\\orm_json_benchmarking.csproj",
+        "projectUniqueName": "c:\\Users\\vinicius.messias\\source\\repos\\orm-json-benchmarking\\orm-json-benchmarking\\orm_json_benchmarking.csproj",
         "projectName": "orm_json_benchmarking",
-        "projectPath": "C:\\Users\\vinicius.messias\\source\\repos\\orm-json-benchmarking\\orm-json-benchmarking\\orm_json_benchmarking.csproj",
+        "projectPath": "c:\\Users\\vinicius.messias\\source\\repos\\orm-json-benchmarking\\orm-json-benchmarking\\orm_json_benchmarking.csproj",
         "packagesPath": "C:\\Users\\vinicius.messias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinicius.messias\\source\\repos\\orm-json-benchmarking\\orm-json-benchmarking\\obj\\",
+        "outputPath": "c:\\Users\\vinicius.messias\\source\\repos\\orm-json-benchmarking\\orm-json-benchmarking\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -51,6 +51,10 @@
               "target": "Package",
               "version": "[2.17.0, )"
             },
+            "NHibernate": {
+              "target": "Package",
+              "version": "[5.4.6, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
@@ -58,6 +62,10 @@
             "System.Text.Json": {
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "dapper": {
+              "target": "Package",
+              "version": "[2.1.24, )"
             }
           },
           "imports": [
