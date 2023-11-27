@@ -8,7 +8,7 @@ namespace orm_json_benchmarking.Database
 {
     internal class UserDapperDatabase : IUserDatabase
     {
-        private readonly string _connectionString = "Server=tcp:sql-benckmark-tcc.database.windows.net,1433;Initial Catalog=db-benckmark-tcc;Persist Security Info=False;User ID=vinicius-messias;Password=47xN8hhrSNtSuE2;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+        private readonly string _connectionString = "[connectionstring]";
 
         public long? Insert(UserModel user)
         {
