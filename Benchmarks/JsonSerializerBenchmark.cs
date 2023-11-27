@@ -7,8 +7,8 @@ namespace orm_json_benchmarking.Benchmarks;
 [MemoryDiagnoser]
 public class JsonSerializerBenchmark
 {
-    static int NumberOfValidations = 100;
-    readonly UserModel user = new UserModel{ Id = 1, Username = "JohnDoe", Password = "teste", Role = 1, CreationDate = DateTime.Now };
+    private static int NumberOfValidations = 100;
+    private readonly UserModel user = new UserModel{ Id = 1, Username = "JohnDoe", Password = "teste", Role = 1, CreationDate = DateTime.Now };
 
     [Benchmark(Baseline = true)]
     public void Newtonsoft()
